@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	height: 95vh;
+	width: 100%;
+	font-family: arial, sans-serif;
+}
+.head {
+	margin-top: 5vh;
+}
+.row {
+	min-height: 50vh;
+	margin-top: 10vh;
+}
+.card {
+	height: 10rem !important;
+	margin: 0.5rem 0;
+	padding: 5px;
+}
+.time-div {
+}
